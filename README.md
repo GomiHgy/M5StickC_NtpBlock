@@ -1,0 +1,2 @@
+# M5StickC_NtpBlock
+M5StickCでNTPを用いてRTC情報を更新するためのブロック
